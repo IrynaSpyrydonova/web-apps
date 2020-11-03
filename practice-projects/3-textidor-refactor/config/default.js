@@ -1,5 +1,5 @@
 module.exports = {
   MODE: 'default',
-  PORT: 8080,
+  PORT: 7000,
   FILES_DIR: '/files'
 };
